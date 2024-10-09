@@ -1,0 +1,1 @@
+# Chess-position-from-image
