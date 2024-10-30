@@ -41,9 +41,11 @@ with saved results.
 
 ![Slide22](https://github.com/user-attachments/assets/d5e0a7ed-aaef-428f-9f3f-4a4be90471a3)
 
-# Warning
-YOLO v8 models are not provided.
-To run script, you need to ensure that the model files are located in the same directory.
+# Trained models
+YOLO v8 models are available here:
+https://drive.google.com/drive/folders/1PMQAq0pIkBr_A_JpoB83R_1Q8R6cCLhX
+
+To run the script, ensure that the model files are located in the same directory as the script.
 
 # References
 James Gallagher. (Mar 10, 2023). Represent Chess Boards Digitally with Computer Vision. Roboflow Blog: https://blog.roboflow.com/chess-boards/
