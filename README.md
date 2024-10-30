@@ -42,7 +42,7 @@ with saved results.
 ![Slide22](https://github.com/user-attachments/assets/d5e0a7ed-aaef-428f-9f3f-4a4be90471a3)
 
 # Warning
-YOOLO v8 models are not provided.
+YOLO v8 models are not provided.
 To run script, you need to ensure that the model files are located in the same directory.
 
 # References
